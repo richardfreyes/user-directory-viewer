@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Doe",
+    "username": "janedoe",
+    "email": "jane.doe@example.com",
+    "phone": "987-654-3210 x12345",
+    "website": "janedoe.net",
+    "company": {
+      "name": "Acme Innovations",
+      "catchPhrase": "Synergistic and proactive web services",
+      "bs": "redefine synergistic paradigms"
+    },
+    "address": {
+      "street": "Oak Street",
+      "suite": "Apt. 201",
+      "city": "Springfield",
+      "zipcode": "12345-6789"
+    }
+  },
+  {
+    "id": 2,
+    "name": "John Smith",
+    "username": "jsmith",
+    "email": "john.smith@example.com",
+    "phone": "123-456-7890",
+    "website": "jsmithdesigns.org",
+    "company": {
+      "name": "Globex Solutions",
+      "catchPhrase": "Integrated, multi-channel customer relations",
+      "bs": "leverage integrated e-business"
+    },
+    "address": {
+      "street": "Pine Avenue",
+      "suite": "Suite 500",
+      "city": "Central City",
+      "zipcode": "54321-9876"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Emily White",
+    "username": "emilyw",
+    "email": "emily.w@example.com",
+    "phone": "234-567-8901 x9876",
+    "website": "white-consulting.biz",
+    "company": {
+      "name": "Hyperion Dynamics",
+      "catchPhrase": "Dynamic, object-oriented infrastructure",
+      "bs": "orchestrate virtual functionalities"
+    },
+    "address": {
+      "street": "Birch Lane",
+      "suite": "Unit 10",
+      "city": "Metropolis",
+      "zipcode": "10987-6543"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "username": "mbrown",
+    "email": "michael.b@example.com",
+    "phone": "345-678-9012",
+    "website": "brown-inc.com",
+    "company": {
+      "name": "Initech Systems",
+      "catchPhrase": "Visionary, client-focused core",
+      "bs": "transition transparent synergies"
+    },
+    "address": {
+      "street": "Cedar Street",
+      "suite": "Floor 7",
+      "city": "Starling City",
+      "zipcode": "76543-2109"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Olivia Miller",
+    "username": "omiller",
+    "email": "olivia.m@example.com",
+    "phone": "456-789-0123 x54321",
+    "website": "miller-solutions.info",
+    "company": {
+      "name": "Dunder Mifflin",
+      "catchPhrase": "Streamlined, reciprocal portal",
+      "bs": "cultivate integrated action-items"
+    },
+    "address": {
+      "street": "Elm Street",
+      "suite": "Apt. 3B",
+      "city": "Shelbyville",
+      "zipcode": "87654-3210"
+    }
+  },
+  {
+    "id": 6,
+    "name": "William Davis",
+    "username": "wdavis",
+    "email": "william.d@example.com",
+    "phone": "567-890-1234",
+    "website": "davis-corp.net",
+    "company": {
+      "name": "Stark Industries",
+      "catchPhrase": "Proactive, didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    },
+    "address": {
+      "street": "Maple Drive",
+      "suite": "Suite 99",
+      "city": "Gotham",
+      "zipcode": "23456-7890"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sophia Wilson",
+    "username": "swilson",
+    "email": "sophia.w@example.com",
+    "phone": "678-901-2345 x6543",
+    "website": "https://www.google.com/search?q=wilson-tech.com",
+    "company": {
+      "name": "Wayne Enterprises",
+      "catchPhrase": "Robust, 24/7 client-server core",
+      "bs": "revolutionize global partnerships"
+    },
+    "address": {
+      "street": "Poplar Street",
+      "suite": "Apt. 12A",
+      "city": "Smallville",
+      "zipcode": "34567-8901"
+    }
+  },
+  {
+    "id": 8,
+    "name": "James Taylor",
+    "username": "jtaylor",
+    "email": "james.t@example.com",
+    "phone": "789-012-3456",
+    "website": "taylor-partners.info",
+    "company": {
+      "name": "Cyberdyne Systems",
+      "catchPhrase": "Monitored, multi-layered core",
+      "bs": "incubate holistic architectures"
+    },
+    "address": {
+      "street": "Willow Road",
+      "suite": "Unit 5",
+      "city": "Hill Valley",
+      "zipcode": "45678-9012"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ava Moore",
+    "username": "amoore",
+    "email": "ava.m@example.com",
+    "phone": "890-123-4567 x7890",
+    "website": "moore-solutions.biz",
+    "company": {
+      "name": "Umbrella Corporation",
+      "catchPhrase": "Intuitive, transitional portal",
+      "bs": "generate end-to-end e-business"
+    },
+    "address": {
+      "street": "Juniper Court",
+      "suite": "Apt. 10B",
+      "city": "Sunnydale",
+      "zipcode": "90123-4567"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Daniel Anderson",
+    "username": "danderson",
+    "email": "daniel.a@example.com",
+    "phone": "012-345-6789",
+    "website": "anderson-group.com",
+    "company": {
+      "name": "Weyland-Yutani Corp",
+      "catchPhrase": "Integrated, responsive knowledge-base",
+      "bs": "strategize robust content"
+    },
+    "address": {
+      "street": "Magnolia Street",
+      "suite": "Suite 110",
+      "city": "Hoth",
+      "zipcode": "67890-1234"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Mia Clark",
+    "username": "mclark",
+    "email": "mia.c@example.com",
+    "phone": "901-234-5678 x11223",
+    "website": "clark-enterprises.net",
+    "company": {
+      "name": "Tyrell Corporation",
+      "catchPhrase": "Balanced, incremental paradigm",
+      "bs": "innovate enterprise-wide solutions"
+    },
+    "address": {
+      "street": "Cedarwood Lane",
+      "suite": "Apt. 1",
+      "city": "Coruscant",
+      "zipcode": "56789-0123"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Joseph Rodriguez",
+    "username": "jrodriguez",
+    "email": "joseph.r@example.com",
+    "phone": "890-123-4567",
+    "website": "rodriguez-research.biz",
+    "company": {
+      "name": "Omni Consumer Products",
+      "catchPhrase": "Front-line, directional knowledge-base",
+      "bs": "maximize user-centric methodologies"
+    },
+    "address": {
+      "street": "Sycamore Street",
+      "suite": "Suite 4",
+      "city": "Cylonsburg",
+      "zipcode": "43210-9876"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Chloe Evans",
+    "username": "cevans",
+    "email": "chloe.e@example.com",
+    "phone": "789-012-3456 x98765",
+    "website": "https://www.google.com/search?q=evans-group.com",
+    "company": {
+      "name": "Soylent Corporation",
+      "catchPhrase": "Organized, multi-channel product",
+      "bs": "morph proactive experiences"
+    },
+    "address": {
+      "street": "Laurel Avenue",
+      "suite": "Apt. 7C",
+      "city": "Terminus",
+      "zipcode": "87654-3210"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Ryan Baker",
+    "username": "rbaker",
+    "email": "ryan.b@example.com",
+    "phone": "678-901-2345",
+    "website": "baker-industries.net",
+    "company": {
+      "name": "Monsters, Inc.",
+      "catchPhrase": "Assimilated, fresh-thinking groupware",
+      "bs": "grow cutting-edge functionalities"
+    },
+    "address": {
+      "street": "Spruce Lane",
+      "suite": "Unit 2B",
+      "city": "Arendelle",
+      "zipcode": "34567-8901"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Grace Harris",
+    "username": "gharris",
+    "email": "grace.h@example.com",
+    "phone": "567-890-1234 x45678",
+    "website": "harris-solutions.info",
+    "company": {
+      "name": "Wile E. Coyote & A.C.M.E.",
+      "catchPhrase": "Exclusive, directional product",
+      "bs": "facilitate compelling relationships"
+    },
+    "address": {
+      "street": "Cypress Road",
+      "suite": "Suite 100",
+      "city": "Hogwarts",
+      "zipcode": "21098-7654"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Nathan Lewis",
+    "username": "nlewis",
+    "email": "nathan.l@example.com",
+    "phone": "456-789-0123",
+    "website": "lewis-associates.biz",
+    "company": {
+      "name": "Umbrella Corp.",
+      "catchPhrase": "Enterprise-wide, reciprocal core",
+      "bs": "engage efficient content"
+    },
+    "address": {
+      "street": "Pinecone Avenue",
+      "suite": "Apt. 8D",
+      "city": "Rivendell",
+      "zipcode": "98765-4321"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Zoe Hall",
+    "username": "zhall",
+    "email": "zoe.h@example.com",
+    "phone": "345-678-9012 x32109",
+    "website": "https://www.google.com/search?q=hall-analytics.com",
+    "company": {
+      "name": "LexCorp",
+      "catchPhrase": "Future-proofed, zero tolerance protocol",
+      "bs": "transform B2C architectures"
+    },
+    "address": {
+      "street": "Ash Street",
+      "suite": "Unit 15",
+      "city": "Emerald City",
+      "zipcode": "12345-6789"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ben Green",
+    "username": "bgreen",
+    "email": "ben.g@example.com",
+    "phone": "234-567-8901",
+    "website": "green-solutions.net",
+    "company": {
+      "name": "Gringotts Bank",
+      "catchPhrase": "Synchronized, responsive neural-net",
+      "bs": "drive frictionless deliverables"
+    },
+    "address": {
+      "street": "Willowdale Lane",
+      "suite": "Floor 2",
+      "city": "King's Landing",
+      "zipcode": "54321-0987"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Lana Baker",
+    "username": "lanab",
+    "email": "lana.b@example.com",
+    "phone": "123-456-7890 x76543",
+    "website": "lanabaker.net",
+    "company": {
+      "name": "Mr. Freeze's Refrigeration",
+      "catchPhrase": "Customer-focused, holistic solution",
+      "bs": "leverage visionary metrics"
+    },
+    "address": {
+      "street": "Cherry Street",
+      "suite": "Apt. 9A",
+      "city": "The Shire",
+      "zipcode": "98765-4321"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Leo Parker",
+    "username": "lparker",
+    "email": "leo.p@example.com",
+    "phone": "012-345-6789",
+    "website": "https://www.google.com/search?q=parker-group.com",
+    "company": {
+      "name": "Pied Piper",
+      "catchPhrase": "Fully-integrated, scalable synergy",
+      "bs": "e-enable strategic e-commerce"
+    },
+    "address": {
+      "street": "Orchard Road",
+      "suite": "Suite 808",
+      "city": "Middle Earth",
+      "zipcode": "23456-7890"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Chloe Adams",
+    "username": "chloea",
+    "email": "chloe.a@example.com",
+    "phone": "890-123-4567 x98765",
+    "website": "adams-inc.net",
+    "company": {
+      "name": "Massive Dynamic",
+      "catchPhrase": "Holistic, high-level core",
+      "bs": "redefine virtual partnerships"
+    },
+    "address": {
+      "street": "Cypress Street",
+      "suite": "Apt. 12",
+      "city": "Naboo",
+      "zipcode": "10987-6543"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Lucas Hall",
+    "username": "lucash",
+    "email": "lucas.h@example.com",
+    "phone": "789-012-3456",
+    "website": "https://www.google.com/search?q=hall-solutions.com",
+    "company": {
+      "name": "Umbrella Corp.",
+      "catchPhrase": "Synergistic, user-centric core",
+      "bs": "evolve B2B solutions"
+    },
+    "address": {
+      "street": "Magnolia Lane",
+      "suite": "Unit 50",
+      "city": "Hogwarts",
+      "zipcode": "76543-2109"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Isabella King",
+    "username": "ik",
+    "email": "isabella.k@example.com",
+    "phone": "678-901-2345 x54321",
+    "website": "king-ventures.biz",
+    "company": {
+      "name": "Stark Industries",
+      "catchPhrase": "Assimilated, client-server paradigm",
+      "bs": "transition scalable methodologies"
+    },
+    "address": {
+      "street": "Willow Street",
+      "suite": "Apt. 3A",
+      "city": "Gotham",
+      "zipcode": "87654-3210"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Elijah White",
+    "username": "elijahw",
+    "email": "elijah.w@example.com",
+    "phone": "567-890-1234",
+    "website": "white-solutions.net",
+    "company": {
+      "name": "Wayne Enterprises",
+      "catchPhrase": "Monitored, responsive paradigm",
+      "bs": "incubate frictionless functionalities"
+    },
+    "address": {
+      "street": "Oakwood Drive",
+      "suite": "Suite 99",
+      "city": "Smallville",
+      "zipcode": "23456-7890"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Mia Taylor",
+    "username": "miat",
+    "email": "mia.t@example.com",
+    "phone": "456-789-0123 x7654",
+    "website": "taylor-inc.com",
+    "company": {
+      "name": "Dunder Mifflin",
+      "catchPhrase": "Optimized, homogeneous hub",
+      "bs": "evolve ubiquitous metrics"
+    },
+    "address": {
+      "street": "Elm Street",
+      "suite": "Apt. 12B",
+      "city": "Shelbyville",
+      "zipcode": "34567-8901"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Jack Miller",
+    "username": "jmiller",
+    "email": "jack.m@example.com",
+    "phone": "345-678-9012",
+    "website": "miller-group.biz",
+    "company": {
+      "name": "Tyrell Corporation",
+      "catchPhrase": "Balanced, incremental core",
+      "bs": "innovate enterprise-wide solutions"
+    },
+    "address": {
+      "street": "Pine Street",
+      "suite": "Unit 5",
+      "city": "Coruscant",
+      "zipcode": "45678-9012"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Sarah Davis",
+    "username": "sarahd",
+    "email": "sarah.d@example.com",
+    "phone": "234-567-8901 x87654",
+    "website": "davis-solutions.net",
+    "company": {
+      "name": "Monsters, Inc.",
+      "catchPhrase": "Proactive, multi-channel product",
+      "bs": "facilitate compelling action-items"
+    },
+    "address": {
+      "street": "Cherry Avenue",
+      "suite": "Floor 10",
+      "city": "Arendelle",
+      "zipcode": "90123-4567"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Noah Wilson",
+    "username": "nwilson",
+    "email": "noah.w@example.com",
+    "phone": "123-456-7890",
+    "website": "wilson-corp.com",
+    "company": {
+      "name": "Soylent Corporation",
+      "catchPhrase": "Organized, homogeneous protocol",
+      "bs": "morph proactive experiences"
+    },
+    "address": {
+      "street": "Spruce Street",
+      "suite": "Apt. 1C",
+      "city": "Terminus",
+      "zipcode": "67890-1234"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Lily Evans",
+    "username": "lilye",
+    "email": "lily.e@example.com",
+    "phone": "012-345-6789 x32109",
+    "website": "evans-partners.info",
+    "company": {
+      "name": "LexCorp",
+      "catchPhrase": "Future-proofed, zero tolerance synergy",
+      "bs": "transform B2C architectures"
+    },
+    "address": {
+      "street": "Poplar Drive",
+      "suite": "Unit 12",
+      "city": "Emerald City",
+      "zipcode": "56789-0123"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Leo Green",
+    "username": "leog",
+    "email": "leo.g@example.com",
+    "phone": "987-654-3210",
+    "website": "green-industries.biz",
+    "company": {
+      "name": "Gringotts Bank",
+      "catchPhrase": "Synchronized, responsive neural-net",
+      "bs": "drive frictionless deliverables"
+    },
+    "address": {
+      "street": "Birchwood Road",
+      "suite": "Suite 88",
+      "city": "King's Landing",
+      "zipcode": "43210-9876"
+    }
+  }
+]
