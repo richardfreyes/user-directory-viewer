@@ -19,8 +19,8 @@ How to Start Storybook
 3. Storybook will open in your browser, typically at http://localhost:6006.
 
 Time Spent on the Challenge
-1. User List Page: 0.5 hour
-2. User Detail Page: 0.5 hour
+1. User List Page: 1 hour
+2. User Detail Page: 1 hour
 3. Routing: 0.5 hour
 4. Storybook Setup & Story: 0.5 hour
 5. Local Server 0.5 hour
