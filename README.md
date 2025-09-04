@@ -34,4 +34,4 @@ Decisions and Trade-offs
 5. PrimeFlex: Used PrimeFlex utility classes for simple layout and spacing (e.g., flex, p-5) to avoid custom CSS.
 
 
-Richard Frey Utulo Reyes
+-- Richard Frey Utulo Reyes
