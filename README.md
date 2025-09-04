@@ -28,7 +28,7 @@ Time Spent on the Challenge
 
 Decisions and Trade-offs
 1. Vite: Vite was chosen for its faster build times and simpler configuration.
-2. PrimeReact: The DataTable and Card components were used to quickly implement the UI, following the test's requirements.
+2. PrimeReact: The DataTable and Card components were used to quickly implement the UI.
 3. API Service: Centralizing the API calls in a separate file (src/api/users.ts) improves code organization and reusability.
 4. Basic Loading/Error States: Implemented basic loading and error handling to show awareness of real-world scenarios, even though they were optional.
 5. PrimeFlex: Used PrimeFlex utility classes for simple layout and spacing (e.g., flex, p-5) to avoid custom CSS.
